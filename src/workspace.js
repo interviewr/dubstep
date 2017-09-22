@@ -1,6 +1,5 @@
 const { EventEmitter } = require('events')
 const fs = require('mz/fs')
-const onp = require('./onp/onp.js')
 
 const debug = require('debug')('workspace')
 
